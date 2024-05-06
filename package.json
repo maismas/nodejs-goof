@@ -46,7 +46,8 @@
     "stream-buffers": "^3.0.1",
     "tap": "^18.0.0",
     "typeorm": "^0.2.24",
-    "validator": "^13.5.2"
+    "validator": "^13.5.2",
+    "gpl-2.0-licensed": "1.0.0"
   },
   "devDependencies": {
     "browserify": "^13.1.1",
