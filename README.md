@@ -9,7 +9,7 @@ A vulnerable Node.js demo application, based on the [Dreamers Lab tutorial](http
 * [Docker Image Scanning](#docker-image-scanning) for base images with known vulnerabilities in system libraries
 * [Runtime alerts](#runtime-alerts) for detecting an invocation of vulnerable functions in open source dependencies
 
-## Running
+## Running test
 ```bash
 mongod &
 
