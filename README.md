@@ -165,7 +165,7 @@ Another case we can discuss here in session management, is that the cookie setti
 
 Snyk Code will also find hardcoded secrets in source code that isn't part of the application logic, such as `tests/` or `examples/` folders. We have a case of that in this application with the `tests/authentication.component.spec.js` file. In the finding, Snyk Code will tag it as `InTest`, `Tests`, or `Mock`, which help us easily triage it and indeed ignore this finding as it isn't actually a case of information exposure.
 
-## Docker Image Scanning
+## Docker Image Scanning test
 
 The `Dockerfile` makes use of a base image (`node:6-stretch`) that is known to have system libraries with vulnerabilities.
 
