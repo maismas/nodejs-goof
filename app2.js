@@ -1,4 +1,4 @@
-// Entry point for the app jl.m  lihn
+// Entry point for the app jl.mhn
 const { exit } = require('process')
 const { logger, httpLogger } = require('./logger')
 const pjson = require('./package.json')
