@@ -11,7 +11,7 @@ This vulnerable app includes the following capabilities to experiment with:,llll
 * [Runtime alerts](#runtime-alerts) for detecting an invocation of vulnerable functions in open source dependencies
 
 ## Running
-```bash
+```bash klk
 mongod &
 
 git clone https://github.com/snyk/goof.git
