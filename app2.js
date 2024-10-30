@@ -2,7 +2,7 @@
 const { exit } = require('process')
 const { logger, httpLogger } = require('./logger')
 const pjson = require('./package.json')
-const VersionService = require('./modules/VersionService')
+const VersionService = require('./modules/VersionService')cc
 VersionService.updateVersionInAtlassianConnect(pjson.version)
   .then(() => {
   // // Express is the underlying web framework: https://expressjs.com
