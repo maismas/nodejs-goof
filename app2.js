@@ -1,4 +1,4 @@
-// Entry point for the apppppppkk
+// Entry point for the apppppppkkxxx
 const { exit } = require('process')
 const { logger, httpLogger } = require('./logger')
 const pjson = require('./package.json')
