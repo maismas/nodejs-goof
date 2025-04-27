@@ -21,7 +21,7 @@ npm start
 This will run Goof locally, using a local mongo on the default port and listening on port 3001 (http://localhost:3001)
 
 ## Running with docker-compose
-```bash
+```bashxxx
 docker-compose up --build
 docker-compose down
 ```
